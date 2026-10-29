@@ -1,0 +1,7 @@
+experimento,algoritmo,n,metrica,valor,tiempo_promedio_ms,desviacion_ms,memoria_pico_mb,repeticiones,semilla,plataforma,fuente
+ANN,KNN exacto,100,recall_at_k,1.0,0.003321142856980787,0.000978279163701706,0.0064544677734375,7,42,macOS-27.0.1-arm64-arm-64bit,SINTÉTICO (solo validación; no usar en el informe)
+ANN,IVF,100,recall_at_k,1.0,0.9621785714284721,0.05142564864443824,0.07767486572265625,7,42,macOS-27.0.1-arm64-arm-64bit,SINTÉTICO (solo validación; no usar en el informe)
+ANN,KNN exacto,1000,recall_at_k,1.0,0.012113142857016004,0.0034619041181275264,0.023895263671875,7,42,macOS-27.0.1-arm64-arm-64bit,SINTÉTICO (solo validación; no usar en el informe)
+ANN,IVF,1000,recall_at_k,1.0,1.467910571428556,0.06524423936659943,0.5063934326171875,7,42,macOS-27.0.1-arm64-arm-64bit,SINTÉTICO (solo validación; no usar en el informe)
+ANN,KNN exacto,10000,recall_at_k,1.0,0.23051771428583834,0.05054881988913999,0.15277099609375,7,42,macOS-27.0.1-arm64-arm-64bit,SINTÉTICO (solo validación; no usar en el informe)
+ANN,IVF,10000,recall_at_k,1.0,5.944826999999796,0.24647796389176327,3.849681854248047,7,42,macOS-27.0.1-arm64-arm-64bit,SINTÉTICO (solo validación; no usar en el informe)
